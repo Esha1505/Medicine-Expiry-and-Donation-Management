@@ -1,0 +1,72 @@
+[
+  {
+    "ID": "M101",
+    "Name": "Paracetemol",
+    "Batch": "b101",
+    "Quantity": 520,
+    "Price": 5,
+    "Mfg Date": "12-05-2025",
+    "Exp Date": "12-05-2027",
+    "Donar Company": "ABC company"
+  },
+  {
+    "ID": "M102",
+    "Name": "Cough Serup",
+    "Batch": "b102",
+    "Quantity": 530,
+    "Price": 10,
+    "Mfg Date": "12-03-2025",
+    "Exp Date": "12-03-2026",
+    "Donar Company": "Abc"
+  },
+  {
+    "ID": "M103",
+    "Name": "Dolo 650",
+    "Batch": "b103",
+    "Quantity": 87,
+    "Price": 5,
+    "Mfg Date": "15-05-2025",
+    "Exp Date": "15-05-2027",
+    "Donar Company": "abc"
+  },
+  {
+    "ID": "M104",
+    "Name": "Vitamin d12",
+    "Batch": "b104",
+    "Quantity": 500,
+    "Price": 10,
+    "Mfg Date": "22-10-2024",
+    "Exp Date": "22-10-2026",
+    "Donar Company": "ABC company"
+  },
+  {
+    "ID": "M105",
+    "Name": "Amlodipine",
+    "Batch": "b105",
+    "Quantity": 500,
+    "Price": 15,
+    "Mfg Date": "22-10-2026",
+    "Exp Date": "22-10-2027",
+    "Donar Company": "ABC company"
+  },
+  {
+    "ID": "M106",
+    "Name": "Pain killers",
+    "Batch": "b106",
+    "Quantity": 1000,
+    "Price": 10,
+    "Mfg Date": "25-12-2026",
+    "Exp Date": "25-12-2028",
+    "Donar Company": "ABC company"
+  },
+  {
+    "ID": "M107",
+    "Name": "Diclofenac",
+    "Batch": "b107",
+    "Quantity": 500,
+    "Price": 15,
+    "Mfg Date": "22-10-2025",
+    "Exp Date": "22-10-2027",
+    "Donar Company": "ABC company"
+  }
+]

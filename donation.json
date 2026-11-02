@@ -1,0 +1,16 @@
+[
+  {
+    "ID": "M102",
+    "Name": "Cough Serup",
+    "Quantity": 50,
+    "Mfg Date": "12-03-2025",
+    "Exp Date": "12-03-2026"
+  },
+  {
+    "ID": "M104",
+    "Name": "Vitamin d12",
+    "Quantity": 500,
+    "Mfg Date": "22-10-2024",
+    "Exp Date": "22-10-2026"
+  }
+]

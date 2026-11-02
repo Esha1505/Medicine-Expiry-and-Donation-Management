@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Cough Serup",
+    "Quantity": 250,
+    "Requested Company": "xyc"
+  },
+  {
+    "Name": "Votamin C",
+    "Quantity": 15,
+    "Requested Company": "WER"
+  },
+  {
+    "Name": "Metformin",
+    "Quantity": 15,
+    "Requested Company": "wer5"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "ID": "M101",
+    "Name": "Paracetamol",
+    "Batch": "B101",
+    "Quantity": 620,
+    "Price": 20,
+    "Mfg Date": "12-05-2025",
+    "Exp Date": "12-05-2027",
+    "Donar Company": "Cipla Ltd."
+  },
+  {
+    "ID": "M102",
+    "Name": "Cough Syrup",
+    "Batch": "B102",
+    "Quantity": 460,
+    "Price": 100,
+    "Mfg Date": "25-11-2025",
+    "Exp Date": "25-11-2026",
+    "Donar Company": "Abbott India Ltd."
+  },
+  {
+    "ID": "M103",
+    "Name": "Dolo 650",
+    "Batch": "B103",
+    "Quantity": 500,
+    "Price": 30,
+    "Mfg Date": "25-11-2025",
+    "Exp Date": "25-11-2026",
+    "Donar Company": "Micro Labs Ltd."
+  },
+  {
+    "ID": "M104",
+    "Name": "Cetirizine 10mg",
+    "Batch": "B104",
+    "Quantity": 320,
+    "Price": 25,
+    "Mfg Date": "10-01-2025",
+    "Exp Date": "10-01-2027",
+    "Donar Company": "Dr. Reddy's Laboratories"
+  },
+  {
+    "ID": "M105",
+    "Name": "Azithromycin 500mg",
+    "Batch": "B105",
+    "Quantity": 250,
+    "Price": 85,
+    "Mfg Date": "20-06-2025",
+    "Exp Date": "20-06-2027",
+    "Donar Company": "Cipla Ltd."
+  },
+  {
+    "ID": "M106",
+    "Name": "Vitamin C 500mg",
+    "Batch": "B106",
+    "Quantity": 600,
+    "Price": 45,
+    "Mfg Date": "25-11-2025",
+    "Exp Date": "25-11-2026",
+    "Donar Company": "Sun Pharmaceutical"
+  },
+  {
+    "ID": "M107",
+    "Name": "ORS Powder",
+    "Batch": "B107",
+    "Quantity": 700,
+    "Price": 20,
+    "Mfg Date": "18-04-2025",
+    "Exp Date": "18-04-2027",
+    "Donar Company": "Zydus Lifesciences"
+  },
+  {
+    "ID": "M108",
+    "Name": "Antacid Tablets",
+    "Batch": "B108",
+    "Quantity": 180,
+    "Price": 35,
+    "Mfg Date": "22-08-2025",
+    "Exp Date": "22-08-2027",
+    "Donar Company": "Abbott India Ltd."
+  },
+  {
+    "ID": "M109",
+    "Name": "Ibuprofen 400mg",
+    "Batch": "B109",
+    "Quantity": 350,
+    "Price": 40,
+    "Mfg Date": "14-07-2025",
+    "Exp Date": "14-07-2027",
+    "Donar Company": "Sun Pharmaceutical"
+  },
+  {
+    "ID": "M110",
+    "Name": "Metformin 500mg",
+    "Batch": "B110",
+    "Quantity": 275,
+    "Price": 55,
+    "Mfg Date": "11-09-2025",
+    "Exp Date": "11-09-2027",
+    "Donar Company": "USV Pvt. Ltd."
+  },
+  {
+    "ID": "M111",
+    "Name": "Pantoprazole 40mg",
+    "Batch": "B111",
+    "Quantity": 410,
+    "Price": 65,
+    "Mfg Date": "09-11-2025",
+    "Exp Date": "09-11-2027",
+    "Donar Company": "Alkem Laboratories"
+  },
+  {
+    "ID": "M112",
+    "Name": "Vitamin D3 Capsules",
+    "Batch": "B112",
+    "Quantity": 220,
+    "Price": 90,
+    "Mfg Date": "16-02-2025",
+    "Exp Date": "16-02-2027",
+    "Donar Company": "Torrent Pharmaceuticals"
+  },
+  {
+    "ID": "M113",
+    "Name": "Calcium Tablets",
+    "Batch": "B113",
+    "Quantity": 390,
+    "Price": 75,
+    "Mfg Date": "25-03-2025",
+    "Exp Date": "25-03-2027",
+    "Donar Company": "Mankind Pharma"
+  },
+  {
+    "ID": "M114",
+    "Name": "Antiseptic Cream",
+    "Batch": "B114",
+    "Quantity": 145,
+    "Price": 55,
+    "Mfg Date": "08-06-2025",
+    "Exp Date": "08-06-2027",
+    "Donar Company": "Himalaya Wellness"
+  },
+  {
+    "ID": "M115",
+    "Name": "Multivitamin",
+    "Batch": "B115",
+    "Quantity": 530,
+    "Price": 110,
+    "Mfg Date": "17-01-2025",
+    "Exp Date": "17-01-2027",
+    "Donar Company": "Abbott India Ltd."
+  },
+  {
+    "ID": "M116",
+    "Name": "Eye Drops",
+    "Batch": "B116",
+    "Quantity": 90,
+    "Price": 60,
+    "Mfg Date": "12-08-2025",
+    "Exp Date": "12-08-2026",
+    "Donar Company": "Cipla Ltd."
+  },
+  {
+    "ID": "M117",
+    "Name": "Loratadine 10mg",
+    "Batch": "B117",
+    "Quantity": 200,
+    "Price": 35,
+    "Mfg Date": "20-10-2025",
+    "Exp Date": "20-10-2027",
+    "Donar Company": "Sun Pharmaceutical"
+  },
+  {
+    "ID": "M118",
+    "Name": "Diclofenac Gel",
+    "Batch": "B118",
+    "Quantity": 160,
+    "Price": 85,
+    "Mfg Date": "13-12-2025",
+    "Exp Date": "13-12-2027",
+    "Donar Company": "Dr. Reddy's Laboratories"
+  },
+  {
+    "ID": "M119",
+    "Name": "Iron Supplement",
+    "Batch": "B119",
+    "Quantity": 340,
+    "Price": 70,
+    "Mfg Date": "07-04-2025",
+    "Exp Date": "07-04-2027",
+    "Donar Company": "Mankind Pharma"
+  },
+  {
+    "ID": "M120",
+    "Name": "Saline Nasal Spray",
+    "Batch": "B120",
+    "Quantity": 125,
+    "Price": 95,
+    "Mfg Date": "19-09-2025",
+    "Exp Date": "19-09-2027",
+    "Donar Company": "Cipla Ltd."
+  },
+  {
+    "ID": "M121",
+    "Name": "Amoxicillin 500mg",
+    "Batch": "B121",
+    "Quantity": 280,
+    "Price": 75,
+    "Mfg Date": "15-01-2026",
+    "Exp Date": "15-01-2028",
+    "Donar Company": "Alkem Laboratories"
+  },
+  {
+    "ID": "M122",
+    "Name": "Clotrimazole Cream",
+    "Batch": "B122",
+    "Quantity": 190,
+    "Price": 50,
+    "Mfg Date": "10-02-2026",
+    "Exp Date": "10-02-2028",
+    "Donar Company": "Glenmark Pharmaceuticals"
+  },
+  {
+    "ID": "M123",
+    "Name": "Loperamide 2mg",
+    "Batch": "B123",
+    "Quantity": 210,
+    "Price": 30,
+    "Mfg Date": "05-03-2026",
+    "Exp Date": "05-03-2028",
+    "Donar Company": "Torrent Pharmaceuticals"
+  },
+  {
+    "ID": "M124",
+    "Name": "Mouth Ulcer Gel",
+    "Batch": "B124",
+    "Quantity": 115,
+    "Price": 65,
+    "Mfg Date": "21-04-2026",
+    "Exp Date": "21-04-2028",
+    "Donar Company": "Abbott India Ltd."
+  },
+  {
+    "ID": "M125",
+    "Name": "Zinc Tablets 20mg",
+    "Batch": "B125",
+    "Quantity": 420,
+    "Price": 40,
+    "Mfg Date": "12-05-2026",
+    "Exp Date": "12-05-2028",
+    "Donar Company": "Zydus Lifesciences"
+  },
+  {
+    "ID": "M126",
+    "Name": "Amlodipine",
+    "Batch": "b105",
+    "Quantity": 50,
+    "Price": 70,
+    "Mfg Date": "22-10-2026",
+    "Exp Date": "22-10-2027",
+    "Donar Company": "ABC company"
+  },
+  {
+    "ID": "M127",
+    "Name": "Pain killers",
+    "Batch": "b106",
+    "Quantity": 850,
+    "Price": 200,
+    "Mfg Date": "25-12-2026",
+    "Exp Date": "25-12-2028",
+    "Donar Company": "ABC company"
+  },
+  {
+    "ID": "M128",
+    "Name": "Diclofenac",
+    "Batch": "b107",
+    "Quantity": 350,
+    "Price": 150,
+    "Mfg Date": "22-10-2025",
+    "Exp Date": "22-10-2027",
+    "Donar Company": "ABC company"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "Medicine Name": "Dolo 650",
+    "Quantity": 100,
+    "Sale To": "nidhi",
+    "Payment": "cash"
+  },
+  {
+    "Medicine Name": "aaa",
+    "Quantity": 20,
+    "Sale To": "def",
+    "Payment": "cash"
+  }
+]

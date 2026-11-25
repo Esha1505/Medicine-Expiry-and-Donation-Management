@@ -5,7 +5,7 @@
     "Password": "esha12345",
     "Age": 21,
     "Gender": "female",
-    "Phone_no": 9769939212,
+    "Phone_no": 8756894104,
     "Address": "bhayander east"
   },
   {
@@ -14,7 +14,7 @@
     "Password": "exit",
     "Age": 34,
     "Gender": "male",
-    "Phone_no": 1234567891,
+    "Phone_no": 7046895315,
     "Address": "virar"
   },
   {
@@ -23,16 +23,7 @@
     "Password": "nidhi2210",
     "Age": 16,
     "Gender": "female",
-    "Phone_no": 9876543210,
+    "Phone_no": 9863527458,
     "Address": "bhayander"
-  },
-  {
-    "First_name": "3",
-    "Last_name": "esha",
-    "Password": "esha12345",
-    "Age": 23,
-    "Gender": "male",
-    "Phone_no": 1234567890,
-    "Address": "sdghgd"
   }
 ]
